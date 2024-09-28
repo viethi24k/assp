@@ -1,0 +1,37 @@
+﻿@@model IEnumerable<baiktra02.Models.Product>
+
+    @{
+        ViewBag.Title = "Product List";
+    }
+
+    <h2>Product List</h2>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Description</td>
+                    <td>@product.Price.ToString("C")</td>
+                    <td>
+                        <a asp-controller="Product" asp-action="Details" asp-route-id="@product.Id">Details</a>
+                        <a asp-controller="Product" asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-controller="Product" asp-action="Create" class="btn btn-primary">Add New Product</a>

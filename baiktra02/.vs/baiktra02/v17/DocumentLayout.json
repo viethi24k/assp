@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|c:\\users\\pc\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\baiktraa01\\webapplication1\\webapplication1\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|c:\\users\\pc\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\baiktraa01\\webapplication1\\webapplication1\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|c:\\users\\pc\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\baiktraa01\\webapplication1\\webapplication1\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|c:\\users\\pc\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\baiktraa01\\webapplication1\\webapplication1\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|c:\\users\\pc\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\baiktraa01\\webapplication1\\webapplication1\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|solutionrelative:webapplication1\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|c:\\users\\pc\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\baiktraa01\\webapplication1\\webapplication1\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|solutionrelative:webapplication1\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|c:\\users\\pc\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\baiktraa01\\webapplication1\\webapplication1\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|solutionrelative:webapplication1\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|c:\\users\\pc\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\baiktraa01\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\areas\\admin\\views\\sanphamcontroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\sanphamcontroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\areas\\admin\\views\\sanphamcontroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\sanphamcontroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|c:\\users\\pc\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\baiktraa01\\webapplication1\\webapplication1\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|solutionrelative:webapplication1\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\data\\migrations\\20240926073753_taosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\baiktra02.csproj|solutionrelative:webapplication1\\data\\migrations\\20240926073753_taosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\data\\migrations\\20240926073753_taosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\migrations\\20240926073753_taosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\areas\\admin\\views\\sanphamcontroller\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\sanphamcontroller\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\areas\\admin\\views\\sanphamcontroller\\upsert.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\sanphamcontroller\\upsert.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\data\\migrations\\20240926070133_taotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\migrations\\20240926070133_taotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\areas\\custumer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\custumer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2EEBA98E-196A-423D-BF4B-935A0F22B7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:52:15.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:52:07.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:49:53.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\theloai\\create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\theloai\\create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:49:22.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Models\\SanPham.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\SanPham.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:47:49.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\theloai\\create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\theloai\\create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:30:42.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:33:56.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:32:34.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\theloai\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\theloai\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:33:18.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Models\\SanPham.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\SanPham.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:31:22.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Theloai.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Models\\Theloai.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Theloai.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Models\\Theloai.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Theloai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:47:30.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "theloaicontroller.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Controllers\\theloaicontroller.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\theloaicontroller.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Controllers\\theloaicontroller.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\theloaicontroller.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA2wDoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:48:26.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:48:36.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:22:34.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "theloaicontroller.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Controllers\\theloaicontroller.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\theloaicontroller.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Controllers\\theloaicontroller.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\theloaicontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:19:49.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:45:07.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T06:25:13.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "sanphamcontroller.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Controllers\\sanphamcontroller.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\sanphamcontroller.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Controllers\\sanphamcontroller.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\sanphamcontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:43:49.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240926073753_taosanpham.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240926073753_taosanpham.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Migrations\\20240926073753_taosanpham.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240926073753_taosanpham.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Migrations\\20240926073753_taosanpham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:45:08.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Theloai.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Models\\Theloai.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Theloai.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Models\\Theloai.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Theloai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:18:39.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240926073753_taosanpham.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240926073753_taosanpham.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Migrations\\20240926073753_taosanpham.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240926073753_taosanpham.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Migrations\\20240926073753_taosanpham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:37:54.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240926070133_taotheloai.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240926070133_taotheloai.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Migrations\\20240926070133_taotheloai.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240926070133_taotheloai.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Migrations\\20240926070133_taotheloai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:01:34.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\upsert.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\upsert.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\upsert.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\upsert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T06:26:21.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\upsert.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\upsert.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\upsert.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\sanphamcontroller\\upsert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T06:49:02.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:21:15.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:09:00.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Custumer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Custumer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Areas\\Custumer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Custumer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T07:00:47.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T06:09:31.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:36:32.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\WebApplication1\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-26T06:12:49.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

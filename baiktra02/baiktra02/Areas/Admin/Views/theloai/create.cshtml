@@ -1,0 +1,43 @@
+﻿@page
+@model Theloai
+@{
+}
+
+<div class="container">
+    <h3>Thêm </h3>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="Name">Tên ID</label>
+            <input asp-for="Name" type="text" class="form-control"/>
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div
+        <div class="form-group">
+            <label asp-for="Name">Tên Class</label>
+            <input asp-for="Name" type="text" class="form-control"/>
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="DateCreated">Ngày Nhap Hoc</label>
+            <input asp-for="DateCreated" type="date" class="form-control" />
+            <span asp-validation-for="DateCreated" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="DateCreated">Ngày ra truong</label>
+            <input asp-for="DateCreated" type="date" class="form-control" />
+            <span asp-validation-for="DateCreated" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="name">So luong sv</label>
+            <input asp-for="Name" type="number" class="form-control"/>
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Tạo mới</button>
+    </form>
+</div>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

@@ -1,0 +1,10 @@
+C:\Users\PC\OneDrive\Tài liệu\GitHub\baiktraa01\WebApplication1\WebApplication1\obj\Debug\net8.0\baiktra02.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Tài liệu\GitHub\baiktraa01\WebApplication1\WebApplication1\obj\Debug\net8.0\baiktra02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Tài liệu\GitHub\baiktraa01\WebApplication1\WebApplication1\obj\Debug\net8.0\baiktra02.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Tài liệu\GitHub\baiktraa01\WebApplication1\WebApplication1\obj\Debug\net8.0\baiktra02.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Tài liệu\GitHub\baiktraa01\WebApplication1\WebApplication1\obj\Debug\net8.0\baiktra02.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Tài liệu\GitHub\baiktraa01\WebApplication1\WebApplication1\obj\Debug\net8.0\baiktra02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\OneDrive\Tài liệu\GitHub\baiktraa01\WebApplication1\WebApplication1\obj\Debug\net8.0\baiktra02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\OneDrive\Tài liệu\GitHub\baiktraa01\WebApplication1\WebApplication1\obj\Debug\net8.0\baiktra02.RazorAssemblyInfo.cache
+C:\Users\PC\OneDrive\Tài liệu\GitHub\baiktraa01\WebApplication1\WebApplication1\obj\Debug\net8.0\baiktra02.RazorAssemblyInfo.cs
+C:\Users\PC\OneDrive\Tài liệu\GitHub\baiktraa01\WebApplication1\WebApplication1\obj\Debug\net8.0\baiktra02.sourcelink.json
