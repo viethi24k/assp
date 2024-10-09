@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|c:\\users\\pc\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\baiktraa01\\baikiemtra03_04\\baikiemtra03_04\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\views\\order\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\views\\order\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\models\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\models\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\baikiemtra03_04\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{53FE2A45-A4B8-4AEB-AE4E-78D6B8FD0BBA}|BaiKiemtra03_04\\BaiKiemtra03_04.csproj|solutionrelative:baikiemtra03_04\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Models\\Order.cs",
+              "RelativeToolTip": "BaiKiemtra03_04\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:08:16.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Views\\Order\\Index1.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\Views\\Order\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Views\\Order\\Index1.cshtml",
+              "RelativeToolTip": "BaiKiemtra03_04\\Views\\Order\\Index1.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T07:04:24.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BaiKiemtra03_04\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:01:14.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\Views\\Supplier\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemtra03_04\\Views\\Supplier\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T06:56:30.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Program.cs",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Program.cs",
+              "RelativeToolTip": "BaiKiemtra03_04\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:54:58.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "BaiKiemtra03_04\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:50:17.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ordercontroller.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Controllers\\Ordercontroller.cs",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\Controllers\\Ordercontroller.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Controllers\\Ordercontroller.cs",
+              "RelativeToolTip": "BaiKiemtra03_04\\Controllers\\Ordercontroller.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAvwDcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:36:33.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemtra03_04\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwDgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T06:57:26.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BaiKiemtra03_04\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:43:08.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\appsettings.json",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\appsettings.json",
+              "RelativeToolTip": "BaiKiemtra03_04\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T06:48:17.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Models\\Component.razor",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\Models\\Component.razor",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\Models\\Component.razor",
+              "RelativeToolTip": "BaiKiemtra03_04\\Models\\Component.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T06:42:11.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BaiKiemtra03_04\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-09T06:37:50.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\.gitignore",
+              "RelativeDocumentMoniker": "BaiKiemtra03_04\\.gitignore",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\baiktraa01\\BaiKiemtra03_04\\BaiKiemtra03_04\\.gitignore",
+              "RelativeToolTip": "BaiKiemtra03_04\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-09T06:30:40.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
